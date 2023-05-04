@@ -1,0 +1,167 @@
+/* TITLE SECTION  */
+
+body{
+    font-family: Montserrat;
+}
+
+h5{
+    color: #009AD9;
+}
+#title{
+    background-color: #ABC2DD;
+}
+
+.brand-name{
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #009AD9;
+
+}
+
+.part-brand-name{
+    color: #ABC2DD;
+}
+.home_img{
+    height: ;
+    
+}
+.home-paragraph{
+    font-size: 1rem;
+    text-align: justify;
+    color: #122249;
+    line-height: 1.5;
+    padding: 10px 10px 10px;
+
+}
+.home-paragraph-container{
+    padding-top: 10px;
+
+}
+
+.home-paragraph-section{
+    background-color: #fff;
+}
+.navigation-link{
+    font-weight: bold;
+    ;
+}
+
+.nav-link{
+    color: #ABC2DD;
+}
+.nav-link:hover{
+    color: #122249;
+}
+.welcome-to-sticobytes{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.button-container{
+    padding: 0 10px 20px ;
+    
+}
+
+.know-more-btn{
+    text-decoration: none;
+    
+}
+
+.enquiry-btn{
+    margin-top: 1.5%;
+}
+
+/* SERVICES SECTION  */
+
+#services{
+    padding: 40px 0 30px;
+    background-color: #ABC2DD;
+}
+
+
+.our-services-paragraph{
+    text-align: justify;
+    color: #122249;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.services-img{
+    height: 200px;
+    width: 300px;
+    border-radius: 30%;
+    padding-bottom: 5%;
+    
+}
+
+.services-paragraph{
+    text-align: justify;
+    color: #122249;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+/* FOOTER SECTION  */
+
+.footer-section{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    background-color: #ABC2DD;
+}
+
+.footer-paragraph{
+    text-align: justify;
+}
+
+.logo-img{
+    height: 50px;
+    width: 200px;
+}
+
+.icon{
+    color: #009AD9;
+   
+}
+
+.social-icon{
+    text-decoration: none;
+}
+
+.social-icon:hover{
+    color: #122249;
+    font-size: 1.2rem;
+}
+
+.quick-links{
+    text-decoration: none;
+}
+
+.quick-links:hover{
+    color: #122249;
+    font-size: 1.2rem;
+}
+
+
+
+/* COPYWRITE SECTION  */
+.copywrite-section{
+    background-color: #122249;
+    padding-top: 30px;
+    color: #009AD9;
+}
+
+.copywrite-paragraph{
+    text-align: center;
+}
+
+/* contact.html */
+
+.contact-container{
+    padding-bottom: 20px;
+}
+
+
+/* About Us Section */
+.about-us-paragraph{
+    text-align: justify;
+}
